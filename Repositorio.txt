@@ -1,4 +1,9 @@
-Repositorio del proyecto Pure Beauty Web - EV02
+Repositorio GitHub - Pure Beauty
+
+Proyecto: PureBeautyWeb
 
 Enlace del repositorio:
-https://github.com/angelacas8520-code/Programa-Git/tree/master
+https://github.com/angelacas8520-code/Programa-Git
+
+Rama principal:
+master
