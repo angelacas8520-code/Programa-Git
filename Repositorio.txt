@@ -3,7 +3,7 @@ Repositorio GitHub - Pure Beauty
 Proyecto: PureBeautyWeb
 
 Enlace del repositorio:
-https://github.com/angelacas8520-code/Programa-Git
+https://github.com/angelacas8520-code/Programa-Git/tree/master
 
 Rama principal:
 master
